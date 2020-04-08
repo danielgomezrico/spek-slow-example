@@ -1,5 +1,7 @@
 # Spek2 Android Example
 
+Added to let https://github.com/spekframework/spek/issues/874 to be tested faster.
+
 # Dependencies
 
 - spek_version: `2.1.0-alpha.0.14+a763c30` or `2.0.10`
